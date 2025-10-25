@@ -1,128 +1,75 @@
-🧠 My-Lecture-Schedule
-Smart Timetable Management System for University Students — CPM22503 Project
+# Smart Timetable Management System
 
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Project Status](https://img.shields.io/badge/status-In%20Progress-orange.svg)]()
+[![Issues](https://img.shields.io/github/issues/futurtec/Smart_Timetable_Management_System)]()
+[![Forks](https://img.shields.io/github/forks/futurtec/Smart_Timetable_Management_System)]()
+[![Stars](https://img.shields.io/github/stars/futurtec/Smart_Timetable_Management_System)]()
 
+---
 
+## Project Overview
 
+**Smart Timetable Management System** is an intelligent platform designed to help university students manage their academic schedules efficiently. Developed as part of the **CPM 22503: PROJECT MANAGEMENT SYSTEMS** course at the South Eastern University of Sri Lanka, this system integrates personal profiles with automated timetable generation, notifications, and other essential university announcements.
 
+---
 
+## Key Features (Scope)
 
+### 1. User Authentication & Profile Management
+* Secure student registration using the university registration number.
+* Secure login, password recovery, and profile management (department, academic year, enrolled courses).
 
+### 2. Personalized Timetable
+* Automatic timetable generation based on enrolled courses.
+* Detailed class information: course name, time, day, lecturer, classroom.
+* Viewing modes: daily, weekly, and monthly.
+* Personal note-taking feature for classes.
 
+### 3. Notifications & Reminders
+* Push or email reminders for upcoming classes.
+* Custom reminder settings per student.
+* Instant alerts for class cancellations or schedule changes.
+* Announcement section for exams, holidays, and university notices.
 
+### 4. Search & Filter
+* Intelligent search for courses, lecturers, or classrooms.
+* Filters based on department, academic year, course type, or days.
+* Optional: AI-powered search suggestions.
 
-📘 Project Overview
+### 5. Feedback & Support
+* Submit feedback for issues or feature suggestions.
+* FAQ section for common queries.
 
-Smart Timetable Management System is a university-level project developed as part of the CPM 22503: Project Management Systems course at the South Eastern University of Sri Lanka.
-It provides an intelligent, centralized, and user-friendly platform to help students efficiently manage their class schedules, receive reminders, and access university announcements — all in one place.
+---
 
-🎯 Key Features (Scope)
-🔐 1. User Authentication & Profile Management
+## Project Timeline (Work Breakdown Structure)
 
-Student registration using the official university registration number
+| Major Deliverable | Start Date | End Date | Duration (Days) | Assigned Developers |
+| :--- | :--- | :--- | :--- | :--- |
+| **1. Authentication & Profile Module** | 1 July | 23 July | 17 | IC/113 & IC/114 |
+| **2. Timetable Management Module** | 24 July | 20 Aug | 20 | IC/113 & IC/114 |
+| **3. Notifications & Reminders** | 21 Aug | 5 Sep | 12 | IC/113 & IC/114 |
+| **4. Search & Filter Module** | 8 Sep | 23 Sep | 12 | IC/113 & IC/114 |
+| **5. Feedback & Support** | 24 Sep | 1 Oct | 6 | IC/113 & IC/114 |
+| **6. More Option (Optional Features)** | 2 Oct | 15 Oct | 10 | IC/113 & IC/114 |
+| **7. Testing & Launch** | 16 Oct | 31 Oct | 12 | IC/113 & IC/114 |
 
-Secure login, password recovery, and profile management
+**Project Finalization and Official Launch:** 31 October 2025
 
-Store details such as department, academic year, and enrolled courses
+---
 
-🗓️ 2. Personalized Timetable
+## Group Members
 
-Automatic timetable generation based on enrolled courses
+| Name | Registration Number | Contact Number | Role |
+| :--- | :--- | :--- | :--- |
+| MTM.SABRAN | SEU/IS/21/IC/113 | 076 644 8003 | Lead Developer (Auth, Timetable Gen, Custom Reminders, Filters, Feedback, Map) |
+| SUS.ABDULLAH | SEU/IS/21/IC/114 | 076 835 4767 | Lead Developer (Login, Class Details, Push Reminders, Search, FAQ, Attendance) |
 
-Class details: course name | day | time | lecturer | classroom
+---
 
-Multiple viewing modes — Daily | Weekly | Monthly
+## Installation & Setup
 
-Add personal notes for each class entry
-
-🔔 3. Notifications & Reminders
-
-Email or in-app reminders before each class (15–30 min prior)
-
-Custom reminder settings per student
-
-Real-time alerts for cancellations or schedule changes
-
-Announcement board for exams, holidays, and university notices
-
-🔎 4. Search & Filter
-
-Smart search for courses, lecturers, and classrooms
-
-Filter by department, academic year, course type, or day
-
-(Optional) AI-powered search suggestions
-
-💬 5. Feedback & Support
-
-In-app feedback form for issues or ideas
-
-Built-in FAQ section for quick help
-
-🧱 Project Timeline (WBS)
-Module	Start	End	Duration (Days)	Developers
-Authentication & Profile	01 Jul 2025	23 Jul 2025	17	IC/113 & IC/114
-Timetable Management	24 Jul 2025	20 Aug 2025	20	IC/113 & IC/114
-Notifications & Reminders	21 Aug 2025	05 Sep 2025	12	IC/113 & IC/114
-Search & Filter	08 Sep 2025	23 Sep 2025	12	IC/113 & IC/114
-Feedback & Support	24 Sep 2025	01 Oct 2025	6	IC/113 & IC/114
-Optional Features	02 Oct 2025	15 Oct 2025	10	IC/113 & IC/114
-Testing & Launch	16 Oct 2025	31 Oct 2025	12	IC/113 & IC/114
-
-🗓️ Final Launch: 31 October 2025
-
-👥 Group Members
-Name	Reg No	Contact	Role
-MTM SABRAN	SEU/IS/21/IC/113	076 644 8003	Lead Dev — Authentication, Timetable Gen, Custom Reminders, Filters, Feedback, Map
-SUS ABDULLAH	SEU/IS/21/IC/114	076 835 4767	Lead Dev — Login, Class Details, Push Reminders, Search, FAQ, Attendance
-🧩 Tech Stack
-
-Frontend: HTML 5, CSS 3, JavaScript
-
-Backend: PHP
-
-Database: MySQL
-
-Design & Planning: Figma, Draw.io, Trello
-
-Version Control: Git & GitHub
-
-🤝 Contribution Guidelines
-
-We welcome collaboration and feedback!
-
-Report issues or bugs via the Issues tab
-
-Submit Pull Requests for improvements
-
-Follow proper commit messages and coding standards
-
-🏛️ Academic Information
-
-Course: CPM 22503 – Project Management Systems
-
-Department: Islamic Studies
-
-Faculty: Islamic Studies and Arabic Language
-
-University: South Eastern University of Sri Lanka
-
-🪪 License
-
-Distributed under the MIT License.
-See the LICENSE
- file for more information.
-
-🙏 Acknowledgements
-
-Project supervisors & lecturers of CPM 22503
-
-Department of Islamic Studies, SEUSL
-
-All contributors, testers, and reviewers
-
-📅 Project Status
-
-🚧 Currently in Development
-🧩 Beta Version under testing
-🎯 Expected launch — 31 October 2025
+1. Clone the repository:
+```bash
+git clone https://github.com/futurtec/Smart_Timetable_Management_System.git
