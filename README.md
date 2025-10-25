@@ -8,6 +8,7 @@ Tired of juggling course printouts, last-minute room changes, and missed announc
 ---
 
 *<img width="1852" height="847" alt="image" src="https://github.com/user-attachments/assets/a42d0e0e-bb92-4a8f-8b9e-15632e3cc8b4" />
+<img width="1794" height="875" alt="image" src="https://github.com/user-attachments/assets/42929184-df0a-4616-a425-c19c04b07082" />
 *
 ---
 
