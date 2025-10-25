@@ -7,7 +7,8 @@ Tired of juggling course printouts, last-minute room changes, and missed announc
 
 ---
 
-*(Here you can add a screenshot of your app's design or a logo)*
+*<img width="1852" height="847" alt="image" src="https://github.com/user-attachments/assets/a42d0e0e-bb92-4a8f-8b9e-15632e3cc8b4" />
+*
 ---
 
 ## 🎯 Project Overview
